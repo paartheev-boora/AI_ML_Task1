@@ -23,13 +23,12 @@ The dataset consists of information on passengers aboard the Titanic, including:
 - **Embarked** was imputed with the **most frequent** port of embarkation.
 - Categorical columns (`Sex`, `Embarked`) were encoded using `LabelEncoder`.
 
-### 3. Feature Engineering *(if any, add here)*
+### 3. Feature Engineering 
 
-*(Optional: If additional feature transformations or new features were created, describe them here.)*
 
-### 4. Model Preparation *(if present)*
 
-*(Optional: If the notebook includes model training, evaluation, or predictions, describe the models used here.)*
+### 4. Model Preparation 
+
 
 ## Technologies Used
 

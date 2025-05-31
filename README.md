@@ -1,4 +1,4 @@
-# Titanic Dataset Analysis
+# Data Cleaning & Preprocessing : Titanic Dataset 
 
 This project performs data preprocessing and exploratory analysis on the Titanic dataset. The goal is to clean and prepare the data for machine learning, and gain insights into the factors affecting passenger survival.
 
